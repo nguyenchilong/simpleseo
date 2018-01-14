@@ -1,0 +1,36 @@
+{
+  "name": "simpleseo",
+  "version": "1.0.0",
+  "description": "this module is simple detect SEO html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenchilong/simpleseo.git"
+  },
+  "keywords": [
+    "seo",
+    "detect",
+    "seo",
+    "from",
+    "html",
+    "file",
+    "check",
+    "missing",
+    "seo",
+    "in",
+    "html"
+  ],
+  "author": "Long Nguyen <nguyenchilong90@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyenchilong/simpleseo/issues"
+  },
+  "homepage": "https://github.com/nguyenchilong/simpleseo#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "optimist": "^0.6.1"
+  }
+}

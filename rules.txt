@@ -1,0 +1,19 @@
+
+{
+	"title": "required",
+	"meta[name=descriptions]": "required",
+	"meta[name=keywords]": "required",
+	"strong": {
+		"more": 15
+	},
+	"h1": {
+		"more": 1
+	},
+	"img": {
+		"has_attr": "alt",
+		"count":""
+	},
+	"a": {
+		"has_attr": "rel"
+	}
+}
